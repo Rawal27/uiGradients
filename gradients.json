@@ -847,5 +847,9 @@
     {
         "name": "Mini",
         "colors": ["#30E8BF", "#FF8235"]
+    },
+    {
+        "name": "invincible"
+        "colors": ["#0fb8ad", "#1fc8db", "#2cb5e8"]
     }
 ]
