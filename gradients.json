@@ -851,5 +851,9 @@
     {
         "name": "invincible"
         "colors": ["#0fb8ad", "#1fc8db", "#2cb5e8"]
+    },
+    {
+        "name":"rawal"
+        "colors":["#4682b4","#6495ed"]
     }
 ]
