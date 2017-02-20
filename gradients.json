@@ -850,6 +850,6 @@
     },
     {
         "name": "invincible"
-        "colors": ["#0fb8ad", "#1fc8db", "#2cb5e8"]
+        "colors": ["#0fb8ad", "#1fc8db"]
     }
 ]
